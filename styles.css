@@ -1,0 +1,16 @@
+/* style.css */
+body {
+  background-color: #2d383a;
+  color: white;
+}
+.buttons {
+  display: flex;
+}
+button {
+  background-color: red;
+}
+.btn {
+  font-size: 40px;
+  background-color: red;
+
+}
